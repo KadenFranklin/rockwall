@@ -1,16 +1,19 @@
 # rockwall
 
 
-My first real venture into independent website development.
-I intend- for my senior capstone project- to create a website of The Hendrix College Rockwall. The function of the website will serve to be an interactive tool to make accessible my favorite part of my college. It will also serve as a tool to maintain a record of the rock wall for future use.
+My first real venture into independent website development. I intend- for my senior capstone project- to create a website of The Hendrix College Rockwall. The function of the website will serve to be an interactive tool to make accessible my favorite part of my college. It will also serve as a tool to maintain a record of the rock wall for future use.
 
 The remainder of this markdown file will contain various notes pertaining to the development of this project.
 
 'section' 	- a square component of which the wall is composed of 112 such squares
             - located by indexing arrays of, x-loc, and y-loc
+			
 'hold' 			- multiform plastic component which is attached to the wall for one to grab
+
 'spot' 			- stationary threaded hole in which a hold is positioned.
+
 'route'			- a collection of holds in a predetermined pattern which one would attempt for a challenge
+
 'wall'			- an annual collection of said routes maintained by Hendrix College Climbing Coalition Historian
 
 A section of the wall's location coordinates to correspond to its location in physical space
@@ -31,8 +34,11 @@ A section of the wall's location coordinates to correspond to its location in ph
   * There are a total of 13 ropes affixed to the wall via top bolts (9 quickdraws, 4 repel devices)
   * The ropes are located in between the seem where sections of the wall meet.
   * Any given section of wall can have an average of _ spots.
-    #  Every spot may contain 1 hold.
-    #  Some spots are used to a fix hardware sometimes needed for an ascension to the wall.
-    #  Such hardware is denoted as its own type of hold in the data.
+  
+      Every spot may contain 1 hold.
+    
+	  Some spots are used to a fix hardware sometimes needed for an ascension to the wall.
+      
+	  Such hardware is denoted as its own type of hold in the data.
 
   * For a semi descriptive visual reference please refer to the file, '_'.
