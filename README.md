@@ -16,7 +16,37 @@ The remainder of this markdown file will contain various notes pertaining to the
 
 'wall'			- an annual collection of said routes maintained by Hendrix College Climbing Coalition Historian
 
-A section of the wall's location coordinates to correspond to its location in physical space
+## A Data dictionary
+
+|Feature | DataType | Description|
+|:--------|:----------|:------------|
+|X-loc | list | Array of the sections X coordinates.|
+|Y-loc | list | Array of the sections Y coordinates.|
+|X | int | The sections X coordinate, used to index the arrat X-loc|
+|Y | int | The sections Y coordinate, used to index the arrat Y-loc| 
+|Spot | int | A numeric representation of a spots location in a section. |
+|H_x | int | Integer describing the x-axis of a hold's section |
+|H_y| int | Integer describing the y-axis of a hold's section  |
+|H_s | int | Integer describing a hold's spot (pos in a sections spot list)|
+|H_c | int | Integer describing a hold's color (Index of Hold-color) |
+|H_t | int | Integer describing what type a hold is (Index of Hold-type) |
+|H_routes | list: str | List of the names of routes, which this hold is a part of.|
+|Hold | list: int | [H_x, H_y, H_s, H_c, H_t] |
+|Hold-list | list: lists | A list of lists, containing the variables associated with this particular hold. The first list, Hold contains everything needed to map the hold to a section. The second list, is H_routes, a list of routes associated with the hold.  |
+|Spot-list | list: int | A list of integers expressing the number of spots, located in associated section |
+|Section-dict | dict: str, list | The dictionary associated with a particular section. Contains: Spot-list, Hold-list |
+|Section | dict : tuple(x)(y), Section-dict | AA 3' x 3' 'section' of the wall, which is expressed as a dictionary of tuple and another dict, containing attributes of that section|
+|R-name | str    |  The name of the associated rock climbing route, an element of route-list   | 
+|R-date |  str  |  The date in which the route was set  | 
+|R-author |  str   |  The name of the route setter  | 
+|R-comments |  str   | Additional comments possibly helpful to completion of the route   | 
+|R-type |  boolean    |  Boulder/Tope-Rope   | 
+|R-rating |  str   |  The difficult of said route expressed on a 5.6- 5.14 scale (Top rope) or V0-V14 scale(Boulder) |
+|R-tape |  str   |  The color of tape with the associated route, an element of tape-colors   |
+|Route |   tuples(x,y): list[Hold-list]  | A collection of holds in their associated spots along with other data. It will contain one of each of the variables mentioned above, along with a dictionary of tuples(x,y): list[Hold-list]|
+|Wall |  list: Route | An annual collection of routes and their necessary sub-parts maintained by Hendrix College Climbing Coalition Historian|
+
+
 
 * The X coordinate being its location horizontally on the wall.
 * (0, being the furthest left section, and 14 being the furthest right section)
