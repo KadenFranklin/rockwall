@@ -35,7 +35,7 @@ The remainder of this markdown file will contain various notes pertaining to the
 |Hold-list | list: lists | A list of lists, containing the variables associated with this particular hold. The first list, Hold contains everything needed to map the hold to a section. The second list, is H_routes, a list of routes associated with the hold.  |
 |Spot-list | list: int | A list of integers expressing the number of spots, located in associated section |
 |Section-dict | dict: str, list | The dictionary associated with a particular section. Contains: Spot-list, Hold-list |
-|Section | dict : tuple(x)(y), Section-dict | AA 3' x 3' 'section' of the wall, which is expressed as a dictionary of tuple and another dict, containing attributes of that section|
+|Section | dict : tuple(x)(y), Section-dict | As 3' x 3' 'section' of the wall, which is expressed as a dictionary of tuple and another dict, containing attributes of that section|
 |R-name | str    |  The name of the associated rock climbing route, an element of route-list   | 
 |R-date |  str  |  The date in which the route was set  | 
 |R-author |  str   |  The name of the route setter  | 
