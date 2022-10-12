@@ -1,16 +1,16 @@
 ﻿Hold ID?,X-loc,Y-loc,spot-pos,Hold type ,Hold color,[List of] routes
-,0,0,bottom-mid,Foot,Maroon,fish[v2]
-,0,0,top-mid,Crimp,Yellow,fish[v2]
-,0,1,center-mid,Jug,Yellow,traverse[vv]
-,0,1,center-top_right,Ledge,Maroon,fish[v2]
-,0,2,bottom-left,Crimp,Yellow,_
-,0,2,center-mid,Jug,Yellow,_
-,0,2,top-right,Jug,Yellow,"flames, _"
-,0,2,mid-right,Foot,Red,_
-,0,3,bottom-right,Pinch,White,fish[v2]
-,0,3,center-right,Bulb,Yellow,_
-,0,3,mid-top-right,Crimp,Orange,fish[v2]
-,0,3,top-right,Bulb,Yellow,_
+,0,0,29,Foot,Maroon,fish[v2]
+,0,0,6,Crimp,Yellow,fish[v2]
+,0,1,9,Jug,Yellow,traverse[vv]
+,0,1,15,Ledge,Maroon,fish[v2]
+,0,2,33,Crimp,Yellow,_
+,0,2,15,Jug,Yellow,"flames, _"
+,0,2,22,Jug,Yellow,_
+,0,2,20,Foot,Red,_
+,0,3,25,Pinch,White,fish[v2]
+,0,3,15,Bulb,Yellow,_
+,0,3,12,Crimp,Orange,fish[v2]
+,0,3,29,Bulb,Yellow,_
 ,0,4,center-top,Jug,Green(Dark),_
 ,0,5,bottom-mid,Under-cling,Green(Dark),_
 ,0,5,mid-right,Jug,Green(Dark),_
@@ -18,11 +18,11 @@
 ,0,6,bottom-right,Horn,Blue,_
 ,0,6,center-right,Crimp,Green(Light),_
 ,0,7,bottom-right,Jug,Marble,_
-,1,0,far-bottom-right,Foot,Black,"Purple[v3], Yellow[v5]"
-,1,0,top-left,Ledge,Orange,fish[v2]
-,1,0,mid-top-right,Bulb,Grey,Purple[v3]
-,1,1,bottom-left,Foot,Yellow,traverse[vv]
-,1,1,top-left,Ledge,Orange,fish[v2]
+,1,0,27,Foot,Black,"Purple[v3], Yellow[v5]"
+,1,0,2,Ledge,Orange,fish[v2]
+,1,0,15,Bulb,Grey,Purple[v3]
+,1,1,36,Foot,Yellow,traverse[vv]
+,1,1,1,Ledge,Orange,fish[v2]
 ,1,2,center-left,Sloper,Yellow,fish[v2]
 ,1,2,center-right,Sloper,Green(Light),"fish[v2], traverse[vv], white"
 ,1,2,bottom-right,Foot,Purple,white

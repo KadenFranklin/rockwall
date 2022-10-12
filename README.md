@@ -5,17 +5,6 @@ My first real venture into independent website development. I intend- for my sen
 
 The remainder of this markdown file will contain various notes pertaining to the development of this project.
 
-'section' 	- a square component of which the wall is composed of 112 such squares
-            - located by indexing arrays of, x-loc, and y-loc
-			
-'hold' 			- multiform plastic component which is attached to the wall for one to grab
-
-'spot' 			- stationary threaded hole in which a hold is positioned.
-
-'route'			- a collection of holds in a predetermined pattern which one would attempt for a challenge
-
-'wall'			- an annual collection of said routes maintained by Hendrix College Climbing Coalition Historian
-
 ## A Data dictionary
 
 |Feature | DataType | Description|
@@ -71,4 +60,4 @@ The remainder of this markdown file will contain various notes pertaining to the
       
 	  Such hardware is denoted as its own type of hold in the data.
 
-  * For a semi descriptive visual reference please refer to the file, '_'.
+  * For a semi descriptive visual reference please refer to the file, 'diagram_1', or 'diagram_2'.
