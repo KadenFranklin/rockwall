@@ -49,11 +49,11 @@
 ,1,6,far-top-right,Crimp,Maroon,white
 ,1,7,center-left,Jug,Green(Light),_
 ,1,7,center-top,Crimp,Yellow,white
-,2,0,center-bottom,Bulb,Blue,_
-,2,0,center-top,Bulb,Blue,Yellow[v5]
-,2,1,far-bottom-right,Ledge,Green(Dark),"yellow[v5], white, traverse[vv]"
-,2,1,center-right,Jug,Green(Light),"purple[v3], traverse[vv], white"
-,2,1,center-top-left,Crimp,Yellow,fish[v2]
+,2,0,33,Bulb,Blue,_
+,2,0,6,Bulb,Blue,Yellow[v5]
+,2,1,27,Ledge,Green(Dark),"yellow[v5], white, traverse[vv]"
+,2,1,13,Jug,Green(Light),"purple[v3], traverse[vv], white"
+,2,1,5,Crimp,Yellow,fish[v2]
 ,2,2,far-bottom-right,Bulb,Yellow,white
 ,2,2,far-center-left,Foot,Purple,_
 ,2,2,center-left,Jug,Yellow,purple[v3]
@@ -82,17 +82,16 @@
 ,2,6,center-left,Ledge,Red,white
 ,2,7,far-bottom-left,Bulb,white,white
 ,2,7,bottom-left,Bulb,Maroon,white
-,3,0,far-top-left,Foot,Yellow,purple[v3]
-,3,0,top-right,Ledge,Green(Dark),traverse[vv]
-,3,0,far-top-right,Foot,Purple,_
-,3,0,far-bottom-right,Foot?,,yellow[v5]
-,3,1,center-left,Jug,Green(Light),"traverse[vv], white"
-,3,1,bottom-right,Bulb,White,red
-,3,1,center-right,Pinch,White,_
-,3,1,center-top,Ledge,Yellow,traverse[vv]
-,3,1,top-right,Pinch,White,_
-,3,1,top-center-left,Foot,Purple,turqoise
-,3,1,top-left-center,Pinch,Purple,_
+,3,0,2,Foot,Yellow,purple[v3]
+,3,0,15,Ledge,Green(Dark),traverse[vv]
+,3,0,21,Foot,Purple,_
+,3,1,34,Jug,Green(Light),"traverse[vv], white"
+,3,1,26,Bulb,White,red
+,3,1,24,Pinch,White,_
+,3,1,10,Ledge,Yellow,traverse[vv]
+,3,1,12,Pinch,White,_
+,3,1,3,Foot,Purple,turqoise
+,3,1,5,Pinch,Purple,_
 ,3,2,bottom-left,Jug,Green(Light),traverse[vv]
 ,3,2,bottom-center-left,Ledge,White,red
 ,3,2,bottom-right,Foot,Purple,"white, orange"
@@ -294,17 +293,17 @@
 ,7,7,,,,
 ,7,7,,,,
 ,7,7,,,,
-,8,0,,,,
-,8,0,,,,
-,8,0,,,,
-,8,0,,,,
-,8,1,,,,
-,8,1,,,,
-,8,1,,,,
-,8,1,,,,
-,8,1,,,,
-,8,1,,,,
-,8,1,,,,
+,8,0,0,Ledge,Black,"that_one[v4], traverse[vv]"
+,8,0,5,Foot,Orange,_
+,8,0,33,Foot,Orange,_
+,8,0,25,Ledge,White,_
+,8,1,0,Jug,Orange,_
+,8,1,31,Foot,Yellow,purple[v2]
+,8,1,5,Jug,Blue,purple[v2]
+,8,1,6,Jug,Red,traverse[vv]
+,8,1,22,Ledge,Maroon,that_one[v4]
+,8,1,12,Horn,Green(Dark),chicken_neck
+,8,1,25,Jug,Blue(Light),hawaiian
 ,8,2,,,,
 ,8,2,,,,
 ,8,2,,,,
@@ -340,14 +339,16 @@
 ,8,7,,,,
 ,9,0,,,,
 ,9,0,,,,
-,9,0,,,,
-,9,0,,,,
-,9,0,,,,
-,9,0,,,,
-,9,1,,,,
-,9,1,,,,
-,9,1,,,,
-,9,1,,,,
+,9,0,0,Crimp,Maroon,"traverse[vv], flower"
+,9,0,2,Jug,Red,hawaiian
+,9,0,4,Foot,Blue(Light),flower
+,9,0,31,Foot,Purple,hawaiian
+,9,0,21,Foot,Yellow,"yellow[v2], traverse[vv]"
+,9,0,18,Foot,Orange,green gaston
+,9,1,0,Bulb,Yellow,_
+,9,1,3,Foot,Orange,that_one[v5]
+,9,1,11,Yellow,Jug,chicken_neck
+,9,1,27,Foot,Red,green
 ,9,2,,,,
 ,9,2,,,,
 ,9,2,,,,
@@ -380,14 +381,15 @@
 ,9,7,,,,
 ,9,7,,,,
 ,9,7,,,,
-,10,0,,,,
-,10,0,,,,
-,10,0,,,,
-,10,1,,,,
-,10,1,,,,
-,10,1,,,,
-,10,1,,,,
-,10,1,,,,
+,10,0,33,Foot,Pruple,purple[v2]
+,10,0,23,Foot,Orange,green gaston
+,10,0,24,Foot,Purple,_
+,10,0,2,Foot,Green(Dark),traverse[vv]
+,10,1,27,Horn,Blue,"purple[v2], traverse[vv]"
+,10,1,25,Jug,Red,purple[v2]
+,10,1,2,Ledge,Orange,"green, hawaiian"
+,10,1,3,Ledge,Orange,green
+,10,1,34,Ledge,Orange,flower
 ,10,2,,,,
 ,10,2,,,,
 ,10,2,,,,
@@ -425,12 +427,13 @@
 ,10,6,,,,
 ,10,7,,,,
 ,10,7,,,,
-,11,0,,,,
-,11,0,,,,
-,11,1,,,,
-,11,1,,,,
-,11,1,,,,
-,11,1,,,,
+,11,0,35,Foot,Purple,purple[v2]
+,11,0,15,Bulb,Blue,"traverse[vv], purple[v2]"
+,11,0,10,Foot,Blue,America_the_great
+,11,1,29,Foot,Black,green gaston
+,11,1,34,Horn,Green(Dark),_
+,11,1,15,Ledge,Red,_
+,11,1,7,Jug,Green(Dark),"orange, purple[v2]"
 ,11,2,,,,
 ,11,2,,,,
 ,11,2,,,,
@@ -458,10 +461,11 @@
 ,11,7,top-left,Pocket,Brown,_
 ,11,7,center-right,Foot,Black,teal
 ,11,7,far-left,Bulb,White,green_gaston
-,12,1,top-right,Foot,Green(Dark),yellow[v2]
-,12,1,center-top,Jug,Green(Dark),flames[v2]
-,12,1,bottom-center,Pinch,Yellow,flames[v2]
-,12,1,bottom-left,Foot,Black,_
+,12,0,33,Foot,Purple,flames[v2]
+,12,1,19,Horn,Green(Dark),yellow[v2]
+,12,1,11,Jug,Green(Dark),flames[v2]
+,12,1,31,Pinch,Yellow,"flames[v2], yellow[v2]"
+,12,1,34,Foot,Black,_
 ,12,2,bottom-left,Pocket,Brown,traverse[vv]
 ,12,2,far-right-bottom,Pinch,Yellow,flames[v2]
 ,12,2,far-right,Pocket,Orange,cupcake
@@ -489,12 +493,12 @@
 ,12,6,center,Jug,Green(Dark),cupcake
 ,12,6,center-top-left,Horn,Green(Dark),teal
 ,12,7,center-right,Bulb,Green(Light),zebra
-,13,0,center-left,Bulb,Green(Light),"zebra, yellow[v2], traverse[vv]"
-,13,0,center-top-right,Bulb,Green(Light),"zebra, yellow[v2]"
-,13,0,far-top-left,Bulb,Green(Light),"zebra, yellow[v2]"
-,13,1,center-bottom,Ledge,Yellow,"yellow[v2], zebra"
-,13,1,far-left-bottom,Foot,Blue,_
-,13,1,far-left-top,Jug,Orange,"traverse[vv], yellow[v2]"
+,13,0,33,Bulb,Green(Light),"zebra, yellow[v2], traverse[vv]"
+,13,0,15,Bulb,Green(Light),"zebra, yellow[v2]"
+,13,0,0,Bulb,Green(Light),"zebra, yellow[v2]"
+,13,1,30,Ledge,Yellow,"yellow[v2], zebra"
+,13,1,34,Foot,Blue,_
+,13,1,5,Jug,Orange,"traverse[vv], yellow[v2]"
 ,13,2,center-right,Jug,Orange,zebra
 ,13,2,far-left,Jug,Yellow,zebra
 ,13,2,far-top-left,Crimp,Maroon,flames[v2]
