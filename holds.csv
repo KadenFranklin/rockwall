@@ -125,17 +125,19 @@
 ,3,7,center-right,Foot,Pink,white
 ,3,7,far-bottom-right,Crimp,Green(Dark),red
 ,3,7,top-right,Crimp,Yellow,orange
-,4,0,center-mid,Ledge,Red,_
-,4,0,center,Pocket,Purple,_
-,4,0,top-right,Pocket,Orange,"traverse[vv], yellow[v5]"
-,4,0,top-left,Horn,Purple,turqoise
-,4,1,far-bottom-left,Ledge,Yellow,yellow[v5]
-,4,1,far-left,Crimp,Black,green
-,4,1,center-right,Ledge,Yellow,"black, traverse[vv]"
-,4,1,far-right,Bulb,Green(Dark),_
-,4,1,top-right,Ledge,Red,yellow[v5]
-,4,1,top-left,Ledge,Brown,yellow[v5]
-,4,1,far-top-left,ledge,White,"red, traverse[vv]"
+,4,0,35,Foot,Yellow,"yellow[v5], blue"
+,4,0,29,Ledge,Red,_
+,4,0,28,Pocket,Purple,_
+,4,0,15,Pocket,Maroon,"traverse[vv], yellow[v5]"
+,4,0,2,Horn,Purple,turqoise
+,4,1,35,Ledge,Yellow,yellow[v5]
+,4,1,36,Crimp,Black ,_
+,4,1,4,Crimp,Black,green
+,4,1,14,Ledge,Yellow,"black, traverse[vv]"
+,4,1,16,Bulb,Green(Dark),green
+,4,1,15,Ledge,Red,yellow[v5]
+,4,1,5,Ledge,Brown,yellow[v5]
+,4,1,0,ledge,White,"red, traverse[vv]"
 ,4,2,bottom-left,Ledge,Orange,"yellow[v5], green"
 ,4,2,far-left,Ledge,White,_
 ,4,2,center,Crimp,Marooon,white
@@ -179,15 +181,15 @@
 ,4,7,center-bottom,Jug,Green(Light),
 ,4,7,center-right,Foot,Pink,white
 ,4,7,top-right,Crimp,Yellow,"orange, white"
-,5,0,far-bottom-left,Foot,Green(Dark),black
-,5,0,far-top-left,Sloper,Orange,"black, traverse[vv]"
-,5,0,top-right,Foot,Red,red
-,5,1,bottom-mid,Ledge,Maroon,red
-,5,1,far-bottom-right,Ledge,Orange,lightning
-,5,1,far-left,Pinch,Green(Dark),black
-,5,1,center-left,Foot,Purple,_
-,5,1,center-top-right,Sloper,Green(Light),"black, traverse[vv], lightning"
-,5,1,top-right,Ledge,Green(Light),"traverse[vv], teal"
+,5,0,35,Foot,Green(Dark),black
+,5,0,0,Sloper,Orange,"black, traverse[vv]"
+,5,0,18,Ledge,Red,red
+,5,1,26,Ledge,Maroon,red
+,5,1,27,Ledge,Orange,lightning
+,5,1,4,Pinch,Green(Dark),black
+,5,1,5,Foot,Purple,_
+,5,1,11,Sloper,Green(Light),"black, traverse[vv], lightning"
+,5,1,18,Ledge,Green(Light),"traverse[vv], teal"
 ,5,2,far-bottom-left,Bulb,Orange,"black, traverse[vv]"
 ,5,2,bottom-left,Pinch,Red,"black, traverse[vv]"
 ,5,2,far-left,Pinch,White,green
