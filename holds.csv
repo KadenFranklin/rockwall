@@ -182,13 +182,13 @@
 ,4,7,center-right,Foot,Pink,white
 ,4,7,top-right,Crimp,Yellow,"orange, white"
 ,5,0,35,Foot,Green(Dark),black
-,5,0,0,Sloper,Orange,"black, traverse[vv]"
-,5,0,18,Ledge,Red,red
+,5,0,0,Sloper,Orange,"black, traverse[vv], peacock, feather[v4]"
+,5,0,18,Ledge,Red,"red, traverse[vv]"
 ,5,1,26,Ledge,Maroon,red
-,5,1,27,Ledge,Orange,lightning
-,5,1,4,Pinch,Green(Dark),black
+,5,1,27,Ledge,Orange,feather[v4]
+,5,1,4,Pinch,Green(Dark),peacock
 ,5,1,5,Foot,Purple,_
-,5,1,11,Sloper,Green(Light),"black, traverse[vv], lightning"
+,5,1,11,Sloper,Green(Light),"black, traverse[vv], peacock, feather[v4]"
 ,5,1,18,Ledge,Green(Light),"traverse[vv], teal"
 ,5,2,far-bottom-left,Bulb,Orange,"black, traverse[vv]"
 ,5,2,bottom-left,Pinch,Red,"black, traverse[vv]"
@@ -210,13 +210,13 @@
 ,5,6,bottom-mid,Foot,Purple,_
 ,5,7,far-bottom-left,Ledge,Red,green
 ,5,7,center-right,Horn,Orange,black
-,6,0,,,,
-,6,0,,,,
-,6,0,,,,
-,6,1,,,,
-,6,1,,,,
-,6,1,,,,
-,6,1,,,,
+,6,0,23,Foot,Yellow,green
+,6,0,11,Foot,Purple,traverse[vv]
+,6,0,17,Foot,Yellow,peacock
+,6,1,35,Foot,Yellow,teal
+,6,1,25,Crimp,Yellow,feather[v4]
+,6,1,11,Sloper,Green(Light),"feather[v4], traverse[vv]"
+,6,1,7,Ledge,White,"traverse[vv], feather[v4]"
 ,6,2,,,,
 ,6,2,,,,
 ,6,2,,,,
@@ -248,11 +248,12 @@
 ,6,6,,,,
 ,6,6,,,,
 ,6,7,,,,
-,7,0,,,,
-,7,0,,,,
-,7,0,,,,
-,7,0,,,,
-,7,0,,,,
+,7,0,35,Foot,Orange,lightning[v3]
+,7,0,34,Foot,Black,that_one[v4]
+,7,0,25,Foot,Blue(Light),that_one[v4]
+,7,0,0,Foot,Yellow,teal
+,7,0,11,Ledge,Orange,lightning[v3]
+,7,0,9,Foot,Green(Dark),traverse[vv]
 ,7,1,,,,
 ,7,1,,,,
 ,7,1,,,,
