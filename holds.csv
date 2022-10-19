@@ -254,11 +254,11 @@
 ,7,0,0,Foot,Yellow,teal
 ,7,0,11,Ledge,Orange,lightning[v3]
 ,7,0,9,Foot,Green(Dark),traverse[vv]
-,7,1,,,,
-,7,1,,,,
-,7,1,,,,
-,7,1,,,,
-,7,1,,,,
+,7,1,35,Bulb,Grey,"turtle_soup[v3], lightning[v3]"
+,7,1,7,Sloper,Green(Light),"peacock, that_one[v4]"
+,7,1,2,Foot,Orange,feather[v4]
+,7,1,18,Sloper,Orange,teal
+,7,1,12,Pocket,Orange,_
 ,7,2,,,,
 ,7,2,,,,
 ,7,2,,,,
