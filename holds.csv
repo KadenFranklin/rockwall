@@ -250,7 +250,7 @@
 ,6,7,,,,
 ,7,0,35,Foot,Orange,lightning[v3]
 ,7,0,34,Foot,Black,that_one[v4]
-,7,0,25,Foot,Blue(Light),that_one[v4]
+,7,0,25,Foot,Light-Blue,that_one[v4]
 ,7,0,0,Foot,Yellow,teal
 ,7,0,11,Ledge,Orange,lightning[v3]
 ,7,0,9,Foot,Green(Dark),traverse[vv]
@@ -306,7 +306,7 @@
 ,8,1,6,Jug,Red,traverse[vv]
 ,8,1,22,Ledge,Maroon,that_one[v4]
 ,8,1,12,Horn,Green(Dark),chicken_neck
-,8,1,25,Jug,Blue(Light),hawaiian
+,8,1,25,Jug,Light-Blue,hawaiian
 ,8,2,,,,
 ,8,2,,,,
 ,8,2,,,,
@@ -344,36 +344,36 @@
 ,9,0,,,,
 ,9,0,0,Crimp,Maroon,"traverse[vv], flower"
 ,9,0,2,Jug,Red,hawaiian
-,9,0,4,Foot,Blue(Light),flower
+,9,0,4,Foot,Light-Blue,flower
 ,9,0,31,Foot,Purple,hawaiian
 ,9,0,21,Foot,Yellow,"yellow[v2], traverse[vv]"
-,9,0,18,Foot,Orange,green gaston
+,9,0,18,Foot,Orange,cytoplasm
 ,9,1,0,Bulb,Yellow,_
 ,9,1,3,Foot,Orange,that_one[v5]
 ,9,1,11,Yellow,Jug,chicken_neck
 ,9,1,27,Foot,Red,green
-,9,2,,,,
-,9,2,,,,
-,9,2,,,,
-,9,2,,,,
-,9,2,,,,
-,9,2,,,,
-,9,3,,,,
-,9,3,,,,
-,9,3,,,,
-,9,3,,,,
-,9,3,,,,
-,9,3,,,,
-,9,3,,,,
-,9,3,,,,
-,9,4,,,,
-,9,4,,,,
-,9,4,,,,
-,9,5,,,,
-,9,5,,,,
-,9,5,,,,
-,9,5,,,,
-,9,5,,,,
+,9,2,35,Crimp,Brown,"traverse[vv], hawaiian"
+,9,2,29,Ledge,Red,traverse[vv]
+,9,2,7,Jug,Green(Dark),chicken_neck
+,9,2,18,Jug,Marble,hawaiian
+,9,2,16,Foot,Purple,_
+,9,2,20,Jug,Yellow,chicken_neck
+,9,3,35,Ledge,White,red_2
+,9,3,27,Jug,Yellow,_
+,9,3,25,Foot,Green(Light),red_2
+,9,3,20,Jug,Orange,hawaiian
+,9,3,2,Sloper,Green(Light),hawaiian
+,9,3,6,Foot,Orange,chicken_neck
+,9,3,14,Foot,Blue,red_2
+,9,3,18,Bulb,Brown,red_2
+,9,4,3,Foot,Yellow,peacock
+,9,4,10,Foot,Orange,light-green
+,9,4,36,Jug,Green(Dark),chicken_neck
+,9,5,7,Horn,Yellow,chicken_neck
+,9,5,31,Ledge,Yellow,chicken_neck
+,9,5,24,Bulb,Brown,"cytoplasm, red_2"
+,9,5,14,Bulb,White,red_2
+,9,5,5,Foot,Green(Dark),peacock
 ,9,6,,,,
 ,9,6,,,,
 ,9,6,,,,
@@ -385,7 +385,7 @@
 ,9,7,,,,
 ,9,7,,,,
 ,10,0,33,Foot,Pruple,purple[v2]
-,10,0,23,Foot,Orange,green gaston
+,10,0,23,Foot,Orange,green_gaston
 ,10,0,24,Foot,Purple,_
 ,10,0,2,Foot,Green(Dark),traverse[vv]
 ,10,1,27,Horn,Blue,"purple[v2], traverse[vv]"
@@ -437,93 +437,92 @@
 ,11,1,34,Horn,Green(Dark),_
 ,11,1,15,Ledge,Red,_
 ,11,1,7,Jug,Green(Dark),"orange, purple[v2]"
-,11,2,,,,
-,11,2,,,,
-,11,2,,,,
-,11,2,,,,
-,11,2,,,,
-,11,2,,,,
-,11,3,,,,
-,11,3,,,,
-,11,3,,,,
-,11,3,,,,
-,11,3,,,,
-,11,4,,,,
-,11,4,,,,
-,11,4,,,,
-,11,4,,,,
-,11,5,,,,
-,11,5,,,,
-,11,5,,,,
-,11,5,,,,
-,11,5,,,,
-,11,6,far-left,Bulb,White,America_the_great
-,11,6,top-left,Bulb,Green(Light),green_gaston
-,11,6,top-center,Ledge,White,America_the_great
-,11,6,top,Horn,Green(Dark),_
-,11,7,top-left,Pocket,Brown,_
-,11,7,center-right,Foot,Black,teal
-,11,7,far-left,Bulb,White,green_gaston
+,11,2,34,White,Bulb,"traverse[vv], orange"
+,11,2,25,Jug,Yellow,purple[v2]
+,11,2,2,Crimp,Maroon,green_gaston
+,11,2,9,Ledge,White,purple[v2]
+,11,2,12,Crimp,Yellow,teal
+,11,2,8,Crimp,White,America_the_great
+,11,3,3,Crimp,White,orange
+,11,3,10,Ledge,White,America_the_great
+,11,3,36,Crimp,Maroon,orange
+,11,3,35,Ledge,Orange,_
+,11,4,3,Foot,Red,green_gaston
+,11,4,7,Bulb,White,America_the_great
+,11,4,4,Crimp,Maroon,_
+,11,4,21,Foot,Yellow,teal
+,11,5,22,Bulb,White,teal
+,11,5,7,Foot,Green(Dark),
+,11,5,35,Jug,Green(Dark),_
+,11,5,1,Bulb,Yellow,orange
+,11,5,3,Crimp,White,America_the_great
+,11,6,4,Bulb,White,America_the_great
+,11,6,3,Bulb,Green(Light),green_gaston
+,11,6,11,Ledge,White,America_the_great
+,11,6,6,Horn,Green(Dark),_
+,11,7,5,Pocket,Brown,_
+,11,7,13,Foot,Black,teal
+,11,7,4,Bulb,White,green_gaston
 ,12,0,33,Foot,Purple,flames[v2]
 ,12,1,19,Horn,Green(Dark),yellow[v2]
 ,12,1,11,Jug,Green(Dark),flames[v2]
 ,12,1,31,Pinch,Yellow,"flames[v2], yellow[v2]"
 ,12,1,34,Foot,Black,_
-,12,2,bottom-left,Pocket,Brown,traverse[vv]
-,12,2,far-right-bottom,Pinch,Yellow,flames[v2]
-,12,2,far-right,Pocket,Orange,cupcake
-,12,2,center-right,Ledge,Orange,teal
-,12,2,center,Foot,Purple,flames[v2]
-,12,2,center-left,Pocket,Brown,traverse[vv]
-,12,2,far-left,Jug,Green(Light),yellow[v2]
-,12,2,top-left,Under-cling,Yellow,_
-,12,3,far-bottom-left,Jug,Marble,"yellow[v2], boulder[v2]"
-,12,3,bottom,Foot,Grey,teal
-,12,3,center-bottom-right,Foot,Pink,flames[v2]
-,12,3,center-left,Bulb,Green(Dark),_
-,12,3,center-top-left,ledge,Pink,_
-,12,3,top-right,Foot,Blue,cupcake
-,12,4,bottom,Foot,Black,teal
-,12,4,far-right,Jug,Green(Dark),cupcake
-,12,4,top,Ledge,Pink,teal
-,12,5,bottom-far-left,Ledge,Black,teal
-,12,5,center-bottom,Foot,Blue,cupcake
-,12,5,center-top,Crimp,Black,teal
-,12,5,center-top-right,Bulb,Green(Light),zebra
-,12,5,center-right-top,Jug,Green(Dark),cupcake
-,12,6,bottom-left,Ledge,Green(Dark),teal
-,12,6,far-bottom-right,Bulb,Green(Light),zebra
-,12,6,center,Jug,Green(Dark),cupcake
-,12,6,center-top-left,Horn,Green(Dark),teal
-,12,7,center-right,Bulb,Green(Light),zebra
+,12,2,34,Pocket,Brown,traverse[vv]
+,12,2,20,Pinch,Yellow,flames[v2]
+,12,2,14,Pocket,Orange,cupcake
+,12,2,13,Ledge,Orange,teal
+,12,2,9,Foot,Purple,flames[v2]
+,12,2,7,Pocket,Brown,traverse[vv]
+,12,2,4,Jug,Green(Light),yellow[v2]
+,12,2,2,Under-cling,Yellow,_
+,12,3,35,Jug,Marble,"yellow[v2], boulder[v2]"
+,12,3,31,Foot,Grey,teal
+,12,3,23,Foot,Pink,flames[v2]
+,12,3,32,Bulb,Green(Dark),_
+,12,3,9,ledge,Pink,_
+,12,3,19,Foot,Blue,cupcake
+,12,4,26,Foot,Black,teal
+,12,4,16,Jug,Green(Dark),cupcake
+,12,4,11,Ledge,Pink,teal
+,12,5,36,Ledge,Black,teal
+,12,5,28,Foot,Blue,cupcake
+,12,5,11,Crimp,Black,teal
+,12,5,6,Bulb,Green(Light),zebra
+,12,5,19,Jug,Green(Dark),cupcake
+,12,6,34,Ledge,Green(Dark),teal
+,12,6,25,Bulb,Green(Light),zebra
+,12,6,22,Jug,Green(Dark),cupcake
+,12,6,9,Horn,Green(Dark),teal
+,12,7,13,Bulb,Green(Light),zebra
 ,13,0,33,Bulb,Green(Light),"zebra, yellow[v2], traverse[vv]"
 ,13,0,15,Bulb,Green(Light),"zebra, yellow[v2]"
 ,13,0,0,Bulb,Green(Light),"zebra, yellow[v2]"
 ,13,1,30,Ledge,Yellow,"yellow[v2], zebra"
 ,13,1,34,Foot,Blue,_
 ,13,1,5,Jug,Orange,"traverse[vv], yellow[v2]"
-,13,2,center-right,Jug,Orange,zebra
-,13,2,far-left,Jug,Yellow,zebra
-,13,2,far-top-left,Crimp,Maroon,flames[v2]
-,13,2,center-top-right,Bulb,Orange,"zebra, white(arret)"
-,13,3,bottom-left,Jug,Marble,cupcake
-,13,3,center-bottom,Jug,Red,zebra
-,13,3,far-left,Ledge,Black,flames[v2]
-,13,3,top-left,Bulb,Green(Light),zebra
-,13,3,center-top,Jug,Yellow,cupcake
-,13,4,bottom-left,Jug,Green(Dark),cupcake
-,13,4,center-far-left,Bulb,Orange,zebra
-,13,4,center-top,Bulb,Green(Light),"zebra, white(arret)"
-,13,4,center-far-right,Bulb,Yellow,cupcake
-,13,5,far-bottom-left,Bulb,Orange,zebra
-,13,5,bottom-left,Jug,Yellow,zebra
-,13,5,far-bottom-right,Bulb,Green,"zebra, white(arret)"
-,13,5,far-right,Bulb,Green,zebra
-,13,5,top-left,Jug,Yellow,zebra
-,13,6,far-bottom-left,Ledge,Green(Dark),cupcake
-,13,6,far-left,Bulb,Orange,"zebra, white(arret)"
-,13,6,center,Foot,Light-Blue,cupcake
-,13,6,far-top-left,Jug,Brown,cupcake
-,13,7,bottom-left,Bulb,Orange,zebra
-,13,7,far-left,Jug,Marble,cupcake
-,13,7,center-top,Jug,Green(Dark),cupcake
+,13,2,24,Jug,Orange,zebra
+,13,2,4,Jug,Yellow,zebra
+,13,2,0,Crimp,Maroon,flames[v2]
+,13,2,11,Bulb,Orange,"zebra, white(arret)"
+,13,3,34,Jug,Marble,cupcake
+,13,3,28,Jug,Red,zebra
+,13,3,4,Ledge,Black,flames[v2]
+,13,3,2,Bulb,Green(Light),zebra
+,13,3,10,Jug,Yellow,cupcake
+,13,4,34,Jug,Green(Dark),cupcake
+,13,4,5,Bulb,Orange,zebra
+,13,4,10,Bulb,Green(Light),"zebra, white(arret)"
+,13,4,12,Bulb,Yellow,cupcake
+,13,5,35,Bulb,Orange,zebra
+,13,5,31,Jug,Yellow,zebra
+,13,5,27,Bulb,Green,"zebra, white(arret)"
+,13,5,14,Bulb,Green,zebra
+,13,5,2,Jug,Yellow,zebra
+,13,6,35,Ledge,Green(Dark),cupcake
+,13,6,4,Bulb,Orange,"zebra, white(arret)"
+,13,6,22,Foot,Light-Blue,cupcake
+,13,6,0,Jug,Brown,cupcake
+,13,7,31,Bulb,Orange,zebra
+,13,7,4,Jug,Marble,cupcake
+,13,7,11,Jug,Green(Dark),cupcake
