@@ -260,21 +260,22 @@
 ,7,1,2,Foot,Orange,feather[v4]
 ,7,1,18,Sloper,Orange,teal
 ,7,1,12,Pocket,Orange,_
-,7,2,,,,
-,7,2,,,,
-,7,2,,,,
-,7,2,,,,
-,7,2,,,,
-,7,2,,,,
-,7,2,,,,
-,7,2,,,,
-,7,3,,,,
-,7,3,,,,
-,7,3,,,,
-,7,3,,,,
-,7,3,,,,
-,7,3,,,,
-,7,3,,,,
+,7,2,5,Bulb,Brown,_
+,7,2,8,Pinch,Yellow,turtle_soup[v3]
+,7,2,11,Foot,Bloack,peacock
+,7,2,13,Foot,Yellow,_
+,7,2,16,Pinch,Yellow,that_one[v4]
+,7,2,23,Bulb,Brown,lightning[v3]
+,7,2,30,Sloper,Orange,reece's folley
+,7,2,31,Jug,Green(Light),_
+,7,2,35,Ledge,White,"traverse[vv], turtle_soup[v4]"
+,7,3,2,Jug,Red,peacock
+,7,3,21,Jug,Green(Light),owl_route
+,7,3,18,Bulb,Maroon,reece's folley
+,7,3,32,Jug,Maroon,reece's folley
+,7,3,27,Bulb,White,reece's folley
+,7,3,30,Jug,Yellow,_
+,7,3,35,Jug,Yellow,peacock
 ,7,4,,,,
 ,7,4,,,,
 ,7,4,,,,
@@ -308,41 +309,40 @@
 ,8,1,22,Ledge,Maroon,that_one[v4]
 ,8,1,12,Horn,Green(Dark),chicken_neck
 ,8,1,25,Jug,Light-Blue,hawaiian
-,8,2,,,,
-,8,2,,,,
-,8,2,,,,
-,8,2,,,,
-,8,2,,,,
-,8,2,,,,
-,8,2,,,,
-,8,3,,,,
-,8,3,,,,
-,8,3,,,,
-,8,3,,,,
-,8,3,,,,
-,8,3,,,,
-,8,4,,,,
-,8,4,,,,
-,8,4,,,,
-,8,4,,,,
-,8,4,,,,
-,8,4,,,,
-,8,5,,,,
-,8,5,,,,
-,8,5,,,,
-,8,5,,,,
-,8,5,,,,
-,8,6,,,,
-,8,6,,,,
-,8,6,,,,
-,8,6,,,,
-,8,7,,,,
-,8,7,,,,
-,8,7,,,,
-,8,7,,,,
-,8,7,,,,
-,9,0,,,,
-,9,0,,,,
+,8,2,1,Jug,Yellow,owl_route
+,8,2,3,Bulb,Brown,lightning[v3]
+,8,2,21,Pocket,Orange,chicken_neck
+,8,2,22,Foot,"hawaiian, chicken_neck",
+,8,2,28,Jug,Green(Dark),
+,8,2,29,Pocket,Brown,"traverse[vv], that_one[v4]"
+,8,2,36,Jug,Red,owl_route
+,8,3,4,Jug,Red,owl_route
+,8,3,11,Ledge,Green(Dark),chicken_neck
+,8,3,22,Foot,Black,peacock
+,8,3,20,Horn,Green(Dark),chicken_neck
+,8,3,30,Sloper,Green(Light),peacock
+,8,3,31,Bub,Brown,lightning[v3]
+,8,4,6,Jug,Red,owl_route
+,8,4,8,Jug,Red,owl_route
+,8,4,10,Jug,Red,peacock
+,8,4,18,Horn,Purple,chicken_neck
+,8,4,27,Foot,Yellow,"owl_route, peacock"
+,8,4,35,Jug,Red,owl_route
+,8,5,1,Jug,Blue,owl_route
+,8,5,12,Foot,Green(Light),chicken_neck
+,8,5,22,Jug,Yellow,"peacock, owl_route"
+,8,5,32,Bulb,Brown,_
+,8,5,30,Jug,Green(Dark),"chicken_neck, peacock"
+,8,6,11,Pocket,Green(Dark),_
+,8,6,10,Jug,Orange,peacock
+,8,6,30,Bulb,Brown,_
+,8,6,27,Foot,Black,_
+,8,6,35,Bulb,Black,chicken_neck
+,8,7,2,Jug,Red,owl_route
+,8,7,20,Horn,Yellow,chicken_neck
+,8,7,24,Crimp,Green(Light),peacock
+,8,7,35,Jug,Red,owl_route
+,8,7,36,Jug,Green(Dark),reece's folley
 ,9,0,0,Crimp,Maroon,"traverse[vv], flower"
 ,9,0,2,Jug,Red,hawaiian
 ,9,0,4,Foot,Light-Blue,flower
@@ -375,17 +375,18 @@
 ,9,5,24,Bulb,Brown,"cytoplasm, red_2"
 ,9,5,14,Bulb,White,red_2
 ,9,5,5,Foot,Green(Dark),peacock
-,9,6,,,,
-,9,6,,,,
-,9,6,,,,
-,9,6,,,,
-,9,6,,,,
-,9,6,,,,
-,9,7,,,,
-,9,7,,,,
-,9,7,,,,
-,9,7,,,,
-,10,0,33,Foot,Pruple,purple[v2]
+,9,6,1,Jug,Blue,"chicken_neck, peacock"
+,9,6,3,Crimp,Marooon,chicken_neck
+,9,6,15,Crimp,Orange,cytoplasm
+,9,6,26,Ledge,Pink,cytoplasm
+,9,6,27,Foot,Green,red_2
+,9,6,30,Jug,Brown,chicken_neck
+,9,6,35,Ledge,Red,peacock
+,9,7,2,Ledge,Red ,peacock
+,9,7,17,Crimp,Orange,cytoplasm
+,9,7,16,Crimp,Brown,red_2
+,9,7,23,Crimp,White,red_2
+,10,0,33,Foot,Purple,purple[v2]
 ,10,0,23,Foot,Orange,green_gaston
 ,10,0,24,Foot,Purple,_
 ,10,0,2,Foot,Green(Dark),traverse[vv]
@@ -423,14 +424,14 @@
 ,10,5,27,Crimp,Green(Dark),America_the_great
 ,10,5,31,Ledge,Yellow,_
 ,10,5,35,Crimp,Orange,"red_2, cytoplasm"
-,10,6,,,,
-,10,6,,,,
-,10,6,,,,
-,10,6,,,,
-,10,6,,,,
-,10,6,,,,
-,10,7,,,,
-,10,7,,,,
+,10,6,0,Foot ,Green,red_2
+,10,6,6,Bulb,Red,_
+,10,6,15,Pocket,Black,_
+,10,6,1,Crimp,Orange,"red_2, cytoplasm"
+,10,6,23,Crimp,Green(Light),green_gaston
+,10,6,35,Crimp,Orange,cytoplasm
+,10,7,30,Ledge,White,America_the_great
+,10,7,7,Ledge,Red,cytoplasm
 ,11,0,35,Foot,Purple,purple[v2]
 ,11,0,15,Bulb,Blue,"traverse[vv], purple[v2]"
 ,11,0,10,Foot,Blue,America_the_great
