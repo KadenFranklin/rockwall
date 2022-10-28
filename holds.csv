@@ -1,67 +1,67 @@
 ﻿Hold ID?,X-loc,Y-loc,spot-pos,Hold type ,Hold color,[List of] routes
 ,0,0,29,Foot,Maroon,fish[v2]
-,0,0,6,Crimp,Yellow,fish[v2]
+,0,0,6,Crimp,Yellow,"fish[v2], traverse[vv]"
 ,0,1,9,Jug,Yellow,"traverse[vv], jump_master"
 ,0,1,15,Ledge,Maroon,fish[v2]
-,0,2,33,Crimp,Yellow,_
-,0,2,15,Jug,Yellow,"flames, jump_master"
+,0,2,33,Crimp,Yellow,flames
+,0,2,15,Jug,Yellow,flames
 ,0,2,22,Jug,Yellow,jump_master
-,0,2,20,Foot,Red,_
+,0,2,20,Foot,Red,fish[v2]
 ,0,3,25,Pinch,White,fish[v2]
-,0,3,15,Bulb,Yellow,_
+,0,3,15,Bulb,Yellow,"flames, jump_master"
 ,0,3,12,Crimp,Orange,fish[v2]
-,0,3,29,Bulb,Yellow,_
+,0,3,29,Bulb,Yellow,"jump_master, flames"
 ,0,4,8,Jug,Green(Dark),jump_master
-,0,5,29,Under-cling,Green(Dark),_
-,0,5,13,Pocket,Green(Dark),_
-,0,6,26,Pinch,Green(Dark),_
-,0,6,27,Horn,Blue,jump_master
-,0,6,12,Crimp,Green(Light),_
+,0,5,29,Under-cling,Green(Dark),flames
+,0,5,13,Pocket,Green(Dark),flames
+,0,6,26,Pocket,Green(Dark),flames
+,0,6,27,Horn,Blue,"jump_master, flames"
+,0,6,12,Crimp,Green(Light),flames
 ,0,7,27,Jug,Marble,jump_master
-,1,0,27,Foot,Black,"Purple[v3], Yellow[v5]"
+,1,0,27,Foot,Black,"Specious_reasoning[v3], Yellow[v5]"
 ,1,0,2,Ledge,Orange,fish[v2]
-,1,0,15,Bulb,Grey,Purple[v3]
-,1,1,36,Foot,Yellow,traverse[vv]
+,1,0,15,Bulb,Grey,"Specious_reasoning[v3], traverse[vv]"
+,1,1,36,Foot,Yellow,"traverse[vv], jump_master"
 ,1,1,1,Ledge,Orange,fish[v2]
 ,1,2,32,Sloper,Yellow,fish[v2]
 ,1,2,24,Sloper,Green(Light),"fish[v2], traverse[vv], white"
 ,1,2,25,Foot,Purple,white
 ,1,2,15,Bulb,Blue,(black&white)
 ,1,2,0,Crimp,Red,fish[v2]
-,1,3,34,Ledge,Yellow,
+,1,3,34,Ledge,Yellow,"jump_master, flames"
 ,1,3,8,Foot,Yellow,fish[v2]
 ,1,3,16,Horn,Purple,"white, (black&white)"
-,1,3,2,Jug,Yellow,jump_master
+,1,3,2,Jug,Yellow,flames
 ,1,3,6,Foot,Purple,(black&white)
 ,1,3,15,Jug,Brown,white
 ,1,3,21,Pocket,Orange,white
-,1,4,24,Ledge,Yellow,_
+,1,4,24,Ledge,Yellow,flames
 ,1,4,27,Foot,Green(Dark),white
 ,1,4,13,Foot,Green(Dark),white
-,1,4,3,Jug,Green(Dark),jump_master
+,1,4,3,Jug,Green(Dark),"jump_master, flames"
 ,1,4,14,Jug,Green(Dark)/Marble,"white, (black&white)"
-,1,5,32,Pocket,Green(Dark),_
+,1,5,32,Horn,Green(Dark),flames
 ,1,5,13,Horn,Green(Dark),white
-,1,5,5,Horn,Blue,_
+,1,5,5,Horn,Blue,"jump_master, flames"
 ,1,5,6,Horn,Grey,white
-,1,6,10,Jug,Green(Dark),white
+,1,6,10,Jug,Green(Dark),"white, flames"
 ,1,6,18,Bulb,White,white
 ,1,6,21,Crimp,Maroon,white
-,1,7,9,Jug,Green(Light),_
+,1,7,9,Jug,Green(Light),flames
 ,1,7,11,Crimp,Yellow,white
-,2,0,33,Bulb,Blue,_
+,2,0,33,Bulb,Blue,(black&white)
 ,2,0,6,Bulb,Blue,Yellow[v5]
 ,2,1,27,Ledge,Green(Dark),"yellow[v5], white, traverse[vv]"
-,2,1,13,Jug,Green(Light),"purple[v3], traverse[vv], white"
+,2,1,13,Jug,Green(Light),"Specious_reasoning[v3], traverse[vv], white"
 ,2,1,5,Crimp,Yellow,fish[v2]
 ,2,2,35,Bulb,Yellow,white
 ,2,2,7,Foot,Purple,_
-,2,2,8,Jug,Yellow,purple[v3]
+,2,2,8,Jug,Yellow,Specious_reasoning[v3]
 ,2,2,22,Jug,Blue,traverse[vv]
 ,2,2,16,Ledge,White,orange
 ,2,2,1,Foot,Purple,_
 ,2,2,3,Crimp,White,white
-,2,2,6,Jug,Grey,Purple[v3]
+,2,2,6,Jug,Grey,Specious_reasoning[v3]
 ,2,2,17,Ledge,Black,_
 ,2,2,21,Crimp,Orange,orange
 ,2,3,30,Crimp,Green(Dark),white
@@ -82,139 +82,140 @@
 ,2,6,2,Ledge,Red,white
 ,2,7,35,Bulb,White,white
 ,2,7,34,Bulb,Maroon,white
-,3,0,2,Foot,Yellow,purple[v3]
+,3,0,2,Foot,Yellow,Specious_reasoning[v3]
 ,3,0,15,Ledge,Green(Dark),traverse[vv]
-,3,0,21,Foot,Purple,_
-,3,1,34,Jug,Green(Light),"traverse[vv], white"
+,3,0,21,Foot,Purple,blue
+,3,1,34,Jug,Green(Light),"traverse[vv], white, yellow[v5]"
 ,3,1,26,Bulb,White,gaston
-,3,1,24,Pinch,White,_
-,3,1,10,Ledge,Yellow,traverse[vv]
-,3,1,12,Pinch,White,_
-,3,1,3,Foot,Purple,turqoise
-,3,1,5,Pinch,Purple,_
+,3,1,24,Pinch,White,blue
+,3,1,10,Ledge,Yellow,"traverse[vv], Specious_reasoning[v3]"
+,3,1,12,Pinch,White,blue
+,3,1,3,Foot,Purple,blue
+,3,1,5,Pinch,Purple,blue
 ,3,2,33,Jug,Green(Light),traverse[vv]
 ,3,2,32,Ledge,White,gaston
-,3,2,25,Foot,Purple,"white, orange"
-,3,2,13,Jug,Brown,_
+,3,2,25,Foot,Black,"white, orange"
+,3,2,13,Jug,Brown,blue
 ,3,2,9,Ledge,Red,white
 ,3,2,2,Jug,Brown,_
 ,3,2,0,Bulb,Yellow,white
-,3,2,11,Crimp,Green(Light),white
+,3,2,11,Crimp,Green(Light),(black&white)
 ,3,2,21,Foot,Orange,white
 ,3,3,35,Horn,Blue,_
 ,3,3,33,Ledge,Orange,_
-,3,3,25,Jug,Yellow,purple[v3]
+,3,3,25,Jug,Yellow,Specious_reasoning[v3]
 ,3,3,4,Jug,Marble,white
 ,3,3,2,Foot,Black,orange
 ,3,3,12,Ledge,White,gaston
-,3,3,17,Foot,Green(Light),_
+,3,3,17,Foot,Green(Light),(black&white)
 ,3,4,30,Foot,Green(Light),white
-,3,4,28,Ledge,White,
-,3,4,23,ledge,Whte,_
+,3,4,28,Ledge,White,gaston
+,3,4,23,ledge,Whte,"(black&white), blue"
 ,3,4,15,Pocket,Orange,orange
-,3,4,6,Bulb,White,white
-,3,5,33,Ledge,white,orange
-,3,5,29,Foot,Green(Light),white
-,3,5,11,Crimp,Green(Dark),_
-,3,5,17,Crimp,Green(Dark),_
+,3,4,6,Bulb,White,(black&white)
+,3,5,33,Ledge,White,orange
+,3,5,29,Foot,Green(Light),(black&white)
+,3,5,11,Crimp,Green(Dark),(black&white)
+,3,5,17,Crimp,Green(Dark),(black&white)
 ,3,6,12,Jug,Red,orange
-,3,6,21,Crimp,White,white
-,3,7,29,Jug,Green(Light),_
+,3,6,31,Ledge,White,orange
+,3,6,21,Crimp,White,(black&white)
+,3,7,29,Jug,Green(Light),orange
 ,3,7,24,Foot,Pink,white
 ,3,7,27,Crimp,Green(Dark),gaston
-,3,7,18,Crimp,Yellow,orange
+,3,7,18,Crimp,Yellow,"orange, blue"
 ,4,0,35,Foot,Yellow,"yellow[v5], blue"
-,4,0,29,Ledge,Red,_
-,4,0,28,Pocket,Purple,_
+,4,0,29,Ledge,Red,space_tape
+,4,0,28,Pocket,Purple,blue
 ,4,0,15,Pocket,Maroon,"traverse[vv], yellow[v5]"
-,4,0,2,Horn,Purple,turqoise
+,4,0,2,Horn,Purple,blue
 ,4,1,35,Ledge,Yellow,yellow[v5]
 ,4,1,36,Crimp,Black ,_
-,4,1,4,Crimp,Black,g_2
+,4,1,4,Crimp,Black,be_stronger
 ,4,1,14,Ledge,Yellow,"space_tape, traverse[vv]"
-,4,1,16,Bulb,Green(Dark),g_2
+,4,1,16,Bulb,Green(Dark),be_stronger
 ,4,1,15,Ledge,Red,yellow[v5]
 ,4,1,5,Ledge,Brown,yellow[v5]
 ,4,1,0,ledge,White,"gaston, traverse[vv]"
-,4,2,33,Ledge,Orange,"yellow[v5], g_2"
+,4,2,33,Ledge,Orange,"yellow[v5], be_stronger"
 ,4,2,4,Ledge,White,_
 ,4,2,22,Crimp,Marooon,white
-,4,2,9,Ledge,Green(Dark),white
+,4,2,9,Ledge,Green(Dark),"white, blue"
 ,4,2,5,Ledge,White,gaston
 ,4,2,10,Crimp,Black,white
-,4,2,6,Foot,Black,_
+,4,2,6,Foot,Purple,blue
 ,4,2,18,Ledge,Purple,yellow[v5]
 ,4,2,21,Sloper,Green(Light),white
 ,4,3,4,Ledge,White,gaston
 ,4,3,32,Pinch,Green(Light),white
-,4,3,11,Sloper,White,Purple[v3]
+,4,3,11,Sloper,White,"Specious_reasoning[v3], gaston"
 ,4,3,1,Jug,Yellow,white
-,4,3,0,Horn,Green(Dark),_
+,4,3,0,Horn,Green(Dark),blue
 ,4,3,6,Ledge,Maroon,white
-,4,3,18,Crimp,Pink,g_2
+,4,3,18,Crimp,Pink,be_stronger
 ,4,4,29,Foot,Yellow,white
 ,4,4,30,Sloper,White,gaston
-,4,4,23,Foot,Green(Dark),g_2
+,4,4,23,Foot,Green(Dark),be_stronger
 ,4,4,24,Foot,Black,_
-,4,4,10,Sloper,White,_
-,4,4,6,Ledge,Brown,_
-,4,4,11,Foot,Yellow,white
-,4,5,29,Pocket,Orange,white
+,4,4,10,Sloper,White,gaston
+,4,4,6,Pocket,Brown,blue
+,4,4,11,Foot,Yellow,be_stronger
+,4,5,29,Pocket,Orange,"white, orange"
 ,4,5,33,Ledge,White,red
-,4,5,14,Horn,Purple,turqoise
+,4,5,14,Horn,Purple,blue
 ,4,5,13,Foot,Green(Light),white
-,4,5,9,Horn,Yellow,orange
-,4,5,2,Horn,Green(Dark),_
-,4,5,16,Pinch,Yellow,
-,4,5,17,Crimp,Purple,_
+,4,5,9,Horn,White,"orange, white"
+,4,5,2,Horn,Green(Dark),blue
+,4,5,16,Pinch,Yellow,blue
+,4,5,17,Crimp,Purple,be_stronger
 ,4,5,18,Ledge,White,gaston
-,4,6,30,Ledge,White,gaston
+,4,6,30,Ledge,White,blue
 ,4,6,4,Bulb,White,white
-,4,6,1,Horn,Purple,_
-,4,6,3,Ledge,White,_
-,4,6,14,Crimp,Maroon,g_2
+,4,6,1,Horn,Purple,blue
+,4,6,3,Ledge,White,gaston
+,4,6,14,Crimp,Maroon,"be_stronger, blue"
 ,4,6,16,Ledge,White,gaston
-,4,6,18,Ledge,Maroon,g_2
+,4,6,18,Ledge,Maroon,be_stronger
 ,4,7,33,Ledge,White,gaston
-,4,7,7,Crimp,Purple,
-,4,7,8,Foot,Pink,
-,4,7,18,Bulb,White,g_2
+,4,7,7,Crimp,Purple,blue
+,4,7,8,Foot,Pink,white
+,4,7,18,Bulb,White,be_stronger
 ,4,7,9,Ledge,White,gaston
 ,5,0,35,Foot,Green(Dark),space_tape
 ,5,0,0,Sloper,Orange,"space_tape, traverse[vv], peacock, feather[v4]"
-,5,0,18,Ledge,Red,"gaston, traverse[vv]"
-,5,1,26,Ledge,Maroon,gaston
+,5,0,18,Ledge,Red,"red_roan, traverse[vv]"
+,5,1,26,Ledge,Maroon,red_roan
 ,5,1,27,Ledge,Orange,feather[v4]
 ,5,1,4,Pinch,Green(Dark),peacock
 ,5,1,5,Foot,Purple,_
 ,5,1,11,Sloper,Green(Light),"space_tape, traverse[vv], peacock, feather[v4]"
-,5,1,18,Ledge,Green(Light),"traverse[vv], teal"
-,5,2,18,Crimo,Maroon,gaston
+,5,1,18,Ledge,Green(Light),"traverse[vv], reece's folley"
+,5,2,18,Crimp,Maroon,red_roan
 ,5,2,35,Bulb,Orange,"space_tape, traverse[vv]"
 ,5,2,32,Pinch,Red,"space_tape, traverse[vv]"
-,5,2,4,Pinch,White,g_2
-,5,2,7,Jug,Red,"space_tape, teal"
-,2,2,5,Ledge,Red,traverse[vv]
-,5,2,12,Bulb,Yellow,"traverse[vv], red, teal"
-,5,2,27,Jug,Green(Light),traverse[vv]
+,5,2,4,Pinch,White,be_stronger
+,5,2,7,Jug,Red,"space_tape, reece's folley"
+,5,2,5,Ledge,Red,traverse[vv]
+,5,2,12,Bulb,Yellow,"traverse[vv], red_roan, reece's folley"
+,5,2,27,Jug,Green(Light),"traverse[vv], peacock"
 ,5,2,20,Pinch,Green(Light),lightning
-,5,2,21,Ledge,Green(Light),traverse[vv]
-,5,3,34,Crimp,Black,g_2
+,5,2,21,Ledge,Green(Light),"traverse[vv], reece's folley"
+,5,3,34,Crimp,Black,be_stronger
 ,5,3,13,Jug,Brown,space_tape
 ,5,4,34,Jug,Red,space_tape
-,5,4,13,Crimp,Maroon,g_2
-,5,4,15,Foot,Green(Light),g_2
-,5,4,35,Foot,Green(Dark),white
+,5,4,13,Crimp,Maroon,be_stronger
+,5,4,15,Foot,Green(Light),be_stronger
+,5,4,35,Foot,Green(Dark),"white, blue"
 ,5,4,19,Pocket,Orange,space_tape
 ,5,5,20,Pinch,Red,space_tape
-,5,5,32,Pinch,Purple,g_2
-,5,6,29,Foot,Purple,_
-,5,7,35,Ledge,Red,g_2
+,5,5,32,Pinch,Purple,be_stronger
+,5,6,29,Foot,Purple,space_tape
+,5,7,35,Ledge,Red,be_stronger
 ,5,7,13,Horn,Orange,space_tape
-,6,0,23,Foot,Yellow,g_2
+,6,0,23,Foot,Yellow,turtle_soup[v4]
 ,6,0,11,Foot,Purple,traverse[vv]
 ,6,0,17,Foot,Yellow,peacock
-,6,1,35,Foot,Yellow,teal
+,6,1,35,Foot,Yellow,"feather[v4], reece's folley"
 ,6,1,25,Crimp,Yellow,feather[v4]
 ,6,1,11,Sloper,Green(Light),"feather[v4], traverse[vv]"
 ,6,1,7,Ledge,White,"traverse[vv], feather[v4]"
@@ -223,12 +224,12 @@
 ,6,2,1,Crimp,Yellow,traverse[vv]
 ,6,2,6,Foot,Yellow,space_tape
 ,6,2,21,Bulb,Brown,turtle_soup[v4]
-,6,2,10,Jug,Green(Light),"traverse[vv], peacock"
-,6,2,11,Foot,Black,red_roan
+,6,2,10,Jug,Green(Light),"traverse[vv], peacock, feather[v4]"
+,6,2,11,Foot,Black,"red_roan, reece's folley"
 ,6,2,14,Pinch,Yellow,_
-,6,2,22,Pocket,Purple,_
+,6,2,22,Pocket,Purple,red_roan
 ,6,2,29,Jug,Yellow,_
-,6,2,35,Foot,Yellow,"feather[v4], reece's folley"
+,6,2,35,Foot,Yellow,"peacock, traverse[vv], reece's folley"
 ,6,3,5,Foot,Blue,reece's folley
 ,6,3,10,Ledge,Yellow,reece's folley
 ,6,3,17,Jug,Red,red_roan
@@ -242,7 +243,7 @@
 ,6,4,22,Horn,Purple,space_tape
 ,6,4,31,Ledge,Yellow,reece's folley
 ,6,5,15,Bulb,Orane,"space_tape, red_roan"
-,6,5,27,Jug,Orange,_
+,6,5,27,Jug,Orange,red_roan
 ,6,5,28,Sloper,Green(Light),"space_tape, red_roan"
 ,6,6,3,Pocket,Orange,space_tape
 ,6,6,5,Foot,Maroon,reece's folley
@@ -253,46 +254,46 @@
 ,7,0,35,Foot,Orange,lightning[v3]
 ,7,0,34,Foot,Black,that_one[v4]
 ,7,0,25,Foot,Light-Blue,that_one[v4]
-,7,0,0,Foot,Yellow,teal
+,7,0,0,Foot,Yellow,reece's folley
 ,7,0,11,Ledge,Orange,lightning[v3]
 ,7,0,9,Foot,Green(Dark),traverse[vv]
 ,7,1,35,Bulb,Grey,"turtle_soup[v3], lightning[v3]"
-,7,1,7,Sloper,Green(Light),"peacock, that_one[v4]"
+,7,1,7,Sloper,Green(Light),"peacock, that_one[v4], red_roan"
 ,7,1,2,Foot,Orange,feather[v4]
-,7,1,18,Sloper,Orange,teal
-,7,1,12,Pocket,Orange,_
+,7,1,18,Sloper,Orange,_
+,7,1,12,Pocket,Orange,lightning[v3]
 ,7,2,5,Bulb,Brown,_
 ,7,2,8,Pinch,Yellow,turtle_soup[v3]
 ,7,2,11,Foot,Bloack,peacock
 ,7,2,13,Foot,Yellow,_
 ,7,2,16,Pinch,Yellow,that_one[v4]
 ,7,2,23,Bulb,Brown,lightning[v3]
-,7,2,30,Sloper,Orange,reece's folley
-,7,2,31,Jug,Green(Light),_
+,7,2,30,Sloper,Orange,"reece's folley, traverse[vv]"
+,7,2,31,Jug,Green(Light),red_roan
 ,7,2,35,Ledge,White,"traverse[vv], turtle_soup[v4]"
 ,7,3,2,Jug,Red,peacock
 ,7,3,21,Jug,Green(Light),owl_route
-,7,3,18,Bulb,Maroon,reece's folley
+,7,3,18,Bulb,Maroon,_
 ,7,3,32,Jug,Maroon,reece's folley
-,7,3,27,Bulb,White,reece's folley
-,7,3,30,Jug,Yellow,_
+,7,3,27,Bulb,White,that_one[v4]
+,7,3,30,Jug,Yellow,owl_route
 ,7,3,35,Jug,Yellow,peacock
 ,7,4,10,Jug,Green(Dark),reece's folley
 ,7,4,11,Bulb,Maroon,_
 ,7,4,18,Foot,Yellow,red_roan
 ,7,4,20,Jug,Red,peacock
-,7,4,33,Jug,Green(Light),red_roan
+,7,4,33,Jug,Green(Light),"red_roan, owl_route"
 ,7,4,36,Bulb,Brown,_
 ,7,5,0,Bulb,Green(Light),red_roan
 ,7,5,4,Crimp,Green(Dark),_
-,7,5,11,Jug,Red,red_roan
+,7,5,11,Jug,Red,"red_roan, owl_route"
 ,7,5,18,Jug,Yellow,owl_route
-,7,5,16,Jug,Green(Dark),_
+,7,5,16,Jug,Green(Dark),reece's folley
 ,7,5,20,Jug,Blue,owl_route
 ,7,5,31,Foot,Yellow,_
 ,7,6,5,Jug,Red,red_roan
 ,7,6,15,Sloper,Green(Light),_
-,7,6,12,Jug,Yellow,_
+,7,6,12,Jug,Yellow,owl_route
 ,7,6,24,Horn,Blue,owl_route
 ,7,6,29,Pocket,Brown,_
 ,7,6,33,Crimp,Yellow,_
@@ -300,12 +301,12 @@
 ,7,7,23,Jug,Orange,owl_route
 ,7,7,35,Crimp,Maroon,_
 ,8,0,0,Ledge,Black,"that_one[v4], traverse[vv]"
-,8,0,5,Foot,Orange,_
-,8,0,33,Foot,Orange,_
+,8,0,5,Foot,Orange,lightning[v3]
+,8,0,33,Foot,Orange,lightning[v3]
 ,8,0,25,Ledge,White,_
 ,8,1,0,Jug,Orange,_
-,8,1,31,Foot,Yellow,purple[v2]
-,8,1,5,Jug,Blue,purple[v2]
+,8,1,31,Foot,Yellow,owl_route
+,8,1,5,Jug,Blue,owl_route
 ,8,1,6,Jug,Red,traverse[vv]
 ,8,1,22,Ledge,Maroon,that_one[v4]
 ,8,1,12,Horn,Green(Dark),chicken_neck
@@ -313,16 +314,16 @@
 ,8,2,1,Jug,Yellow,owl_route
 ,8,2,3,Bulb,Brown,lightning[v3]
 ,8,2,21,Pocket,Orange,chicken_neck
-,8,2,22,Foot,"hawaiian, chicken_neck",
+,8,2,22,Foot,Light-Blue,"hawaiian, chicken_neck"
 ,8,2,28,Jug,Green(Dark),_
 ,8,2,29,Pocket,Brown,"traverse[vv], that_one[v4]"
 ,8,2,36,Jug,Red,owl_route
 ,8,3,4,Jug,Red,owl_route
 ,8,3,11,Ledge,Green(Dark),chicken_neck
-,8,3,22,Foot,Black,peacock
+,8,3,22,Foot,Light-Blue,peacock
 ,8,3,20,Horn,Green(Dark),chicken_neck
 ,8,3,30,Sloper,Green(Light),peacock
-,8,3,31,Bub,Brown,lightning[v3]
+,8,3,31,Bulb,Brown,lightning[v3]
 ,8,4,6,Jug,Red,owl_route
 ,8,4,8,Jug,Red,owl_route
 ,8,4,10,Jug,Red,peacock
@@ -337,8 +338,8 @@
 ,8,6,11,Pocket,Green(Dark),_
 ,8,6,10,Jug,Orange,peacock
 ,8,6,30,Bulb,Brown,_
-,8,6,27,Foot,Black,_
-,8,6,35,Bulb,Black,chicken_neck
+,8,6,27,Foot,Black,chicken_neck
+,8,6,35,Bulb,Black,_
 ,8,7,2,Jug,Red,owl_route
 ,8,7,20,Horn,Yellow,chicken_neck
 ,8,7,24,Crimp,Green(Light),peacock
