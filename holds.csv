@@ -83,7 +83,7 @@
 ,2,7,35,Bulb,White,white
 ,2,7,34,Bulb,Maroon,white
 ,3,0,2,Foot,Yellow,Specious_reasoning[v3]
-,3,0,15,Ledge,Green(Dark),traverse[vv]
+,3,0,15,Ledge,Green(Dark),"traverse[vv], be_stronger"
 ,3,0,21,Foot,Purple,blue
 ,3,1,34,Jug,Green(Light),"traverse[vv], white, yellow[v5]"
 ,3,1,26,Bulb,White,gaston
@@ -110,7 +110,7 @@
 ,3,3,17,Foot,Green(Light),(black&white)
 ,3,4,30,Foot,Green(Light),white
 ,3,4,28,Ledge,White,gaston
-,3,4,23,ledge,Whte,"(black&white), blue"
+,3,4,23,ledge,White,"(black&white), blue"
 ,3,4,15,Pocket,Orange,orange
 ,3,4,6,Bulb,White,(black&white)
 ,3,5,33,Ledge,White,orange
@@ -139,7 +139,7 @@
 ,4,1,0,ledge,White,"gaston, traverse[vv]"
 ,4,2,33,Ledge,Orange,"yellow[v5], be_stronger"
 ,4,2,4,Ledge,White,_
-,4,2,22,Crimp,Marooon,white
+,4,2,22,Crimp,Maroon,white
 ,4,2,9,Ledge,Green(Dark),"white, blue"
 ,4,2,5,Ledge,White,gaston
 ,4,2,10,Crimp,Black,white
@@ -242,7 +242,7 @@
 ,6,4,17,Bulb,White,reece's folley
 ,6,4,22,Horn,Purple,space_tape
 ,6,4,31,Ledge,Yellow,reece's folley
-,6,5,15,Bulb,Orane,"space_tape, red_roan"
+,6,5,15,Bulb,Orange,"space_tape, red_roan"
 ,6,5,27,Jug,Orange,red_roan
 ,6,5,28,Sloper,Green(Light),"space_tape, red_roan"
 ,6,6,3,Pocket,Orange,space_tape
@@ -264,7 +264,7 @@
 ,7,1,12,Pocket,Orange,lightning[v3]
 ,7,2,5,Bulb,Brown,_
 ,7,2,8,Pinch,Yellow,turtle_soup[v3]
-,7,2,11,Foot,Bloack,peacock
+,7,2,11,Foot,Black,peacock
 ,7,2,13,Foot,Yellow,_
 ,7,2,16,Pinch,Yellow,that_one[v4]
 ,7,2,23,Bulb,Brown,lightning[v3]
@@ -366,11 +366,11 @@
 ,9,3,25,Foot,Green(Light),red_2
 ,9,3,20,Jug,Orange,"hawaiian, cytoplasm"
 ,9,3,2,Sloper,Green(Light),hawaiian
-,9,3,6,Foot,Orange,chicken_neck
+,9,3,6,Foot,Orange,"chicken_neck, cytoplasm"
 ,9,3,14,Foot,Blue,red_2
 ,9,3,18,Bulb,Brown,red_2
 ,9,4,3,Foot,Yellow,peacock
-,9,4,10,Foot,Orange,light-green
+,9,4,10,Foot,Orange,cytoplasm
 ,9,4,36,Jug,Green(Dark),chicken_neck
 ,9,5,7,Horn,Yellow,chicken_neck
 ,9,5,31,Ledge,Yellow,chicken_neck
@@ -378,7 +378,7 @@
 ,9,5,14,Bulb,White,red_2
 ,9,5,5,Foot,Green(Dark),peacock
 ,9,6,1,Jug,Blue,"chicken_neck, peacock"
-,9,6,3,Crimp,Marooon,chicken_neck
+,9,6,3,Crimp,Maroon,chicken_neck
 ,9,6,15,Crimp,Orange,cytoplasm
 ,9,6,26,Ledge,Pink,cytoplasm
 ,9,6,27,Foot,Green,red_2
@@ -390,7 +390,7 @@
 ,9,7,23,Crimp,White,red_2
 ,10,0,33,Foot,Purple,purple[v2]
 ,10,0,23,Foot,Orange,green_gaston
-,10,0,24,Foot,Purple,_
+,10,0,24,Foot,Purple,purple[v2]
 ,10,0,2,Foot,Green(Dark),traverse[vv]
 ,10,1,27,Horn,Blue,"purple[v2], traverse[vv]"
 ,10,1,25,Jug,Red,purple[v2]
@@ -408,7 +408,7 @@
 ,10,2,33,Bulb,Blue,green_gaston
 ,10,2,35,Ledge,Orange,cytoplasm
 ,10,2,25,Sloper,Green(Light),"green_gaston, traverse[vv]"
-,10,3,9,Ledge,Orange,_
+,10,3,9,Ledge,Orange,cytoplasm
 ,10,3,29,Ledge,White,America_the_great
 ,10,3,28,Crimp,Maroon,green_gaston
 ,10,4,35,Ledge,Orange,"red_2, cytoplasm"
@@ -416,7 +416,7 @@
 ,10,4,26,Ledge,White,America_the_great
 ,10,4,24,Foot,Yellow,orange
 ,10,4,4,Ledge,Orange,red_2
-,10,4,9,Crimp,Brown,_
+,10,4,9,Crimp,Brown,"orange, red_2"
 ,10,4,6,Crimp,Green(Dark),America_the_great
 ,10,5,2,Crimp,Maroon,cytoplasm
 ,10,5,3,Bulb,White,"red_2, orange"
@@ -424,7 +424,7 @@
 ,10,5,34,Crimp,Maroon,red_2
 ,10,5,20,Pocket,Orange,America_the_great
 ,10,5,27,Crimp,Green(Dark),America_the_great
-,10,5,31,Ledge,Yellow,_
+,10,5,31,Ledge,Yellow,orange
 ,10,5,35,Crimp,Orange,"red_2, cytoplasm"
 ,10,6,0,Foot ,Green,red_2
 ,10,6,6,Bulb,Red,_
@@ -435,38 +435,38 @@
 ,10,7,30,Ledge,White,America_the_great
 ,10,7,7,Ledge,Red,cytoplasm
 ,11,0,35,Foot,Purple,purple[v2]
-,11,0,15,Bulb,Blue,"traverse[vv], purple[v2]"
+,11,0,15,Bulb,Blue,"traverse[vv], purple[v2], teal"
 ,11,0,10,Foot,Blue,America_the_great
-,11,1,29,Foot,Black,green gaston
-,11,1,34,Horn,Green(Dark),_
-,11,1,15,Ledge,Red,_
+,11,1,29,Foot,Black,green_gaston
+,11,1,34,Horn,Green(Dark),teal
+,11,1,15,Ledge,Red,"America_the_great, teal"
 ,11,1,7,Jug,Green(Dark),"orange, purple[v2]"
-,11,2,34,White,Bulb,"traverse[vv], orange"
+,11,2,34,White,Bulb,"traverse[vv], orange, teal"
 ,11,2,25,Jug,Yellow,purple[v2]
 ,11,2,2,Crimp,Maroon,green_gaston
 ,11,2,9,Ledge,White,purple[v2]
 ,11,2,12,Crimp,Yellow,teal
-,11,2,8,Crimp,White,America_the_great
+,11,2,8,Crimp,White,"America_the_great, teal"
 ,11,3,3,Crimp,White,orange
 ,11,3,10,Ledge,White,America_the_great
 ,11,3,36,Crimp,Maroon,orange
 ,11,3,35,Ledge,Orange,_
 ,11,4,3,Foot,Red,green_gaston
 ,11,4,7,Bulb,White,America_the_great
-,11,4,4,Crimp,Maroon,_
+,11,4,4,Crimp,Maroon,green_gaston
 ,11,4,21,Foot,Yellow,teal
 ,11,5,22,Bulb,White,teal
-,11,5,7,Foot,Green(Dark),
-,11,5,35,Jug,Green(Dark),_
+,11,5,7,Foot,Green(Dark),green_gaston
+,11,5,35,Jug,Green(Dark),green_gaston
 ,11,5,1,Bulb,Yellow,orange
 ,11,5,3,Crimp,White,America_the_great
 ,11,6,4,Bulb,White,America_the_great
 ,11,6,3,Bulb,Green(Light),green_gaston
 ,11,6,11,Ledge,White,America_the_great
-,11,6,6,Horn,Green(Dark),_
-,11,7,5,Pocket,Brown,_
-,11,7,13,Foot,Black,teal
-,11,7,4,Bulb,White,green_gaston
+,11,6,6,Horn,Green(Dark),teal
+,11,7,5,Pocket,Brown,green_gaston
+,11,7,13,Foot,Black,"teal, green_gaston"
+,11,7,4,Bulb,White,"America_the_great, green_gaston, orange"
 ,12,0,33,Foot,Purple,flames[v2]
 ,12,1,19,Horn,Green(Dark),yellow[v2]
 ,12,1,11,Jug,Green(Dark),flames[v2]
@@ -479,16 +479,16 @@
 ,12,2,9,Foot,Purple,flames[v2]
 ,12,2,7,Pocket,Brown,traverse[vv]
 ,12,2,4,Jug,Green(Light),yellow[v2]
-,12,2,2,Under-cling,Yellow,_
+,12,2,2,Under-cling,Yellow,teal
 ,12,3,35,Jug,Marble,"yellow[v2], boulder[v2]"
 ,12,3,31,Foot,Grey,teal
 ,12,3,23,Foot,Pink,flames[v2]
-,12,3,32,Bulb,Green(Dark),_
-,12,3,9,ledge,Pink,_
+,12,3,32,Bulb,Green(Dark),teal
+,12,3,9,ledge,Maroon,teal
 ,12,3,19,Foot,Blue,cupcake
 ,12,4,26,Foot,Black,teal
-,12,4,16,Jug,Green(Dark),cupcake
-,12,4,11,Ledge,Pink,teal
+,12,4,16,Jug,Green(Dark),"cupcake, teal"
+,12,4,11,Ledge,Orange,teal
 ,12,5,36,Ledge,Black,teal
 ,12,5,28,Foot,Blue,cupcake
 ,12,5,11,Crimp,Black,teal
@@ -500,10 +500,10 @@
 ,12,6,9,Horn,Green(Dark),teal
 ,12,7,13,Bulb,Green(Light),zebra
 ,13,0,33,Bulb,Green(Light),"zebra, yellow[v2], traverse[vv]"
-,13,0,15,Bulb,Green(Light),"zebra, yellow[v2]"
-,13,0,0,Bulb,Green(Light),"zebra, yellow[v2]"
+,13,0,15,Bulb,Green(Light),zebra
+,13,0,0,Bulb,Green(Light),zebra
 ,13,1,30,Ledge,Yellow,"yellow[v2], zebra"
-,13,1,34,Foot,Blue,_
+,13,1,34,Foot,Blue,cupcake
 ,13,1,5,Jug,Orange,"traverse[vv], yellow[v2]"
 ,13,2,24,Jug,Orange,zebra
 ,13,2,4,Jug,Yellow,zebra
@@ -518,7 +518,7 @@
 ,13,4,5,Bulb,Orange,zebra
 ,13,4,10,Bulb,Green(Light),"zebra, white(arret)"
 ,13,4,12,Bulb,Yellow,cupcake
-,13,5,35,Bulb,Orange,zebra
+,13,5,35,Sloper,Orange,zebra
 ,13,5,31,Jug,Yellow,zebra
 ,13,5,27,Bulb,Green,"zebra, white(arret)"
 ,13,5,14,Bulb,Green,zebra
