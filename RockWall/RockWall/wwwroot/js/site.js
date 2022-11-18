@@ -41,12 +41,14 @@ function Make_route(canvas, Route){
 var c=document.getElementById("myCanvas");
 var ctx=c.getContext("2d");
 ctx.canvas.width  = window.innerWidth;
-ctx.canvas.height = window.innerHeight;
-var image = new Image();
-image.src = 'https://raw.githubusercontent.com/KadenFranklin/rockwall/main/rock_1.jpg';
-ctx.drawImage(image, 0, 0, ctx.canvas.width, ctx.canvas.height);
-/* ctx.canvas.width  = window.innerWidth;
-ctx.canvas.height = window.innerHeight; */
+ctx.canvas.height = window.innerHeight
+	/*
+	 * var image = new Image();
+	 * image.src = '/assets/rock_1.jpg';
+	 * ctx.drawImage(image, 0, 0, ctx.canvas.width, ctx.canvas.height);
+	 */
+
+
 ctx.beginPath(); 
 ctx.lineWidth="2";
 ctx.strokeStyle="red"; 

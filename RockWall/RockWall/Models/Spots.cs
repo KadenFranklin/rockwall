@@ -6,10 +6,9 @@ namespace RockWall.Models
     public class Spots
     {  
         [Key]
-        public int Spot_ID { get; set; }
-        [ForeignKey("Sections")]
-        public int Sect_ID { get; set; }
         public int Spot { get; set; }
+        [ForeignKey("Sections")]
+        public Tuple<int, int>? Position { get; set; }
         public bool has_hold { get; set; }
 
     }

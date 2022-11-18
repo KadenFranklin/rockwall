@@ -6,15 +6,16 @@ namespace RockWall.Models
     public class Holds
     {
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
-        public int Hold_ID { get; set; }
+        public int HoldID { get; set; }
         [ForeignKey("Sections")]
-        public int Sect_ID { get; set;}
-    
+        public Tuple<int, int>? Position { get; set; }
+
         [ForeignKey("Spots")]
-        public int Spot_ID { get; set; }
+        public int Spot { get; set; }
         public string? Color { get; set;}
         public string? Type { get; set;}
-        public ICollection<string> Routes { get; set; }
+        [ForeignKey("Routes")]
+        public ICollection<string> Name { get; set; }
     }
 }
 
