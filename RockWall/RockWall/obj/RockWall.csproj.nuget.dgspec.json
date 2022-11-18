@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kaden\\source\\repos\\RockWall\\RockWall\\RockWall.csproj": {}
+    "C:\\Users\\kaden\\Documents\\github\\KadenFranklin.github.io\\rockwall\\RockWall\\RockWall\\RockWall.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kaden\\source\\repos\\RockWall\\RockWall\\RockWall.csproj": {
+    "C:\\Users\\kaden\\Documents\\github\\KadenFranklin.github.io\\rockwall\\RockWall\\RockWall\\RockWall.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kaden\\source\\repos\\RockWall\\RockWall\\RockWall.csproj",
+        "projectUniqueName": "C:\\Users\\kaden\\Documents\\github\\KadenFranklin.github.io\\rockwall\\RockWall\\RockWall\\RockWall.csproj",
         "projectName": "RockWall",
-        "projectPath": "C:\\Users\\kaden\\source\\repos\\RockWall\\RockWall\\RockWall.csproj",
+        "projectPath": "C:\\Users\\kaden\\Documents\\github\\KadenFranklin.github.io\\rockwall\\RockWall\\RockWall\\RockWall.csproj",
         "packagesPath": "C:\\Users\\kaden\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kaden\\source\\repos\\RockWall\\RockWall\\obj\\",
+        "outputPath": "C:\\Users\\kaden\\Documents\\github\\KadenFranklin.github.io\\rockwall\\RockWall\\RockWall\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,0 +1,54 @@
+﻿@page
+@model RockWall.Pages.Holds.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Holds</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Holds.H_x" class="control-label"></label>
+                <input asp-for="Holds.H_x" class="form-control" />
+                <span asp-validation-for="Holds.H_x" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Holds.H_y" class="control-label"></label>
+                <input asp-for="Holds.H_y" class="form-control" />
+                <span asp-validation-for="Holds.H_y" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Holds.H_s" class="control-label"></label>
+                <input asp-for="Holds.H_s" class="form-control" />
+                <span asp-validation-for="Holds.H_s" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Holds.color" class="control-label"></label>
+                <input asp-for="Holds.color" class="form-control" />
+                <span asp-validation-for="Holds.color" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Holds.type" class="control-label"></label>
+                <input asp-for="Holds.type" class="form-control" />
+                <span asp-validation-for="Holds.type" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

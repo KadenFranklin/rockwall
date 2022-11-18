@@ -1,7 +1,12 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using RockWall.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddDbContext<RockWallContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("RockWallContext") ?? throw new InvalidOperationException("Connection string 'RockWallContext' not found.")));
 
 var app = builder.Build();
 

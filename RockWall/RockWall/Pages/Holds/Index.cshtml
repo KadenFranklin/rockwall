@@ -1,0 +1,60 @@
+﻿@page
+@model RockWall.Pages.Holds.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Holds[0].H_x)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Holds[0].H_y)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Holds[0].H_s)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Holds[0].color)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Holds[0].type)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Holds) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.H_x)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H_y)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H_s)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.color)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.type)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
