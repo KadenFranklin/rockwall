@@ -5,6 +5,7 @@ namespace RockWall.Models
     public class Routes
     {
         [Key]
+        public int Route_ID { get; set; }
         public string Name { get; set; }
         public string Date { get; set; }
         public string Setter { get; set; }

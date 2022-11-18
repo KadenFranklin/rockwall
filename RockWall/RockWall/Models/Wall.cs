@@ -5,5 +5,6 @@ namespace RockWall.Models
 {
     public class Wall
     {
+
     }
 }
