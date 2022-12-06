@@ -1,8 +1,4 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
-
-// Write your JavaScript code.
-
+﻿
 function SetPoint(canvas, x, y){
   canvas.beginPath();
   canvas.moveTo(x-2.5, y-2.5);
@@ -26,9 +22,19 @@ function Make_route(canvas, Route){
     /* SetPoint(canvas, hold_loc_x, hold_loc_y)  */
     /*   Save loc_x, and loc_y for every step of loop past 1st one */
     /* SetLine(canvas, prev_loc_x, prev_loc_y, hold_loc_x, hold_loc_y)  */
-
 }
 
+function getResolution() {
+	alert("Your screen resolution is: " + window.screen.width * window.devicePixelRatio +
+		"x" + window.screen.height * window.devicePixelRatio);
+}
+
+window.addEventListener("resize", function () {
+	var c = document.getElementById("myCanvas");
+	var ctx = c.getContext("2d");
+	ctx.canvas.width = window.innerWidth;
+	ctx.canvas.height = window.innerHeight
+});
 /* Before Doing ANYTHING else*/
 
 /* For x holds :

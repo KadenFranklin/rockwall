@@ -14,6 +14,10 @@ namespace RockWall.Data
         {
         }
 
-        public DbSet<RockWall.Models.Holds> Holds { get; set; } = default!;
+        public DbSet<RockWall.Models.Hold> Hold { get; set; }
+        public DbSet<RockWall.Models.Spot> Spot { get; set; }
+        public DbSet<RockWall.Models.Section> Section { get; set; }
+        public DbSet<RockWall.Models.Route> Route { get; set; }
+        public DbSet<RockWall.Models.Wall> Wall { get; set; }
     }
 }

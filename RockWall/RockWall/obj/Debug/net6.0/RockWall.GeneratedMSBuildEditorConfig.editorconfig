@@ -19,6 +19,26 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Holds/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9sZHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Holds/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9sZHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Holds/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9sZHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Holds/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9sZHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Holds/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9sZHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -27,8 +47,88 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Routes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm91dGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Routes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm91dGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Routes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm91dGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Routes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm91dGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Routes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm91dGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Sections/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VjdGlvbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Sections/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VjdGlvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Sections/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VjdGlvbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Sections/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VjdGlvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Sections/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VjdGlvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Spots/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3BvdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Spots/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3BvdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Spots/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3BvdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Spots/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3BvdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Spots/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3BvdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Walls/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2FsbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Walls/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2FsbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Walls/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2FsbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Walls/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2FsbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/Walls/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2FsbHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/kaden/Documents/github/KadenFranklin.github.io/rockwall/RockWall/RockWall/Pages/_ViewImports.cshtml]

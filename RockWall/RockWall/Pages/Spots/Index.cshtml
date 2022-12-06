@@ -1,0 +1,42 @@
+﻿@page
+@model RockWall.Pages.Spots.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Spot[0].loc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Spot[0].Position)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Spot) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.loc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Position)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.SpotID">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.SpotID">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.SpotID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
